@@ -1,6 +1,7 @@
 # ¡Hola! Soy Abner Francisco Melendez Garcia 
    Estudiante y desarrollador interesado en el desarrollo de software, 
-   bases de datos y tecnologías web.
+   bases de datos y tecnologías web. Actualmente curso el tercer año
+   de la universidad. 
 
 
 - 🎓 Estudiante de Ingeniería
