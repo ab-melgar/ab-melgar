@@ -45,13 +45,8 @@ APIs, concurrency, communication between computers and failure handling
 🔗 My portfolio:  
 https://TU-URL-DE-VERCEL.vercel.app
 
-## 📊 GitHub Stats
 
-![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbmelIng&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbmelIng&layout=compact&theme=dark)
-
-## 📫 Contact
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/melendezabner
 - Email: abner06.ing@gmail.com
