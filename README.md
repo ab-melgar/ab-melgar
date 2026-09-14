@@ -8,8 +8,7 @@
 - 🌐 Experiencia desarrollando aplicaciones web
 - 🗄️ Conocimientos en bases de datos SQL
 - ⚙️ Experiencia con APIs y sistemas distribuidos
-- 📱 Desarrollo de aplicaciones móviles
-- 
+- 📱 Desarrollo de aplicaciones móviles- 
 ## Tecnologías
 
 - C
