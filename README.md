@@ -4,7 +4,7 @@ Systems Engineering student focused on software development, databases, web tech
 
 Currently studying at **Galileo University** and building projects with technologies such as **C#, Java, Kotlin, SQL, Angular, Tailwind CSS and Power Platform**.
 
-## 🚀 About Me
+## About Me
 
 - Systems Engineering student
 - Interested in backend and web development
