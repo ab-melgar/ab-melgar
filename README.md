@@ -2,7 +2,7 @@
 
 Systems Engineering student focused on software development, databases, web technologies, mobile applications and automation.
 
-Currently studying at **Galileo University** and building projects with technologies such as **C#, Java, Kotlin, SQL, Angular, Tailwind CSS and Power Platform**.
+Currently studying at **Galileo University** and building projects with technologies such as **Java, Kotlin, SQL, Angular, Tailwind CSS and Power Platform**.
 
 ## About Me
 
@@ -13,8 +13,7 @@ Currently studying at **Galileo University** and building projects with technolo
 - Knowledge of SQL databases
 ## Technologies
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
